@@ -1,6 +1,10 @@
-# template
+# 3D
 
-template
+A collection of models for 3D printing and more.
+
+## [Models](models/)
+
+Various models for useful objects.
 
 ## Contributing
 
