@@ -5,6 +5,7 @@
 This file is a model of a NFC tag keyring. It is hollow so that the
 NFC chip can fit inside.
 
+![nfc_tag_chip_keyring](nfc_tag_chip_keyring.jpg)
 
 ## [nfc_tag_sticker_keyring.stl](nfc_tag_sticker_keyring.stl)
 
